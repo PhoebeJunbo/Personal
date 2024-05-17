@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Phoebe's Personal Webpage</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        header {
+            background-color: #333;
+            color: #fff;
+            padding: 1rem 0;
+            text-align: center;
+        }
+        section {
+            padding: 2rem;
+            margin: 1rem auto;
+            max-width: 800px;
+            background-color: #fff;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h2 {
+            color: #333;
+        }
+        a {
+            color: #0066cc;
+        }
+        footer {
+            text-align: center;
+            padding: 1rem;
+            background-color: #333;
+            color: #fff;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Phoebe</h1>
+    <p>the Person in charge of the Crypto Ark at Bybit, the Head of Middle East at Moledao</p>
+</header>
+
+<section id="about">
+    <h2>About Me</h2>
+    <p>I am a serial entrepreneur with a strong focus on addressing real-world societal issues and seeking effective solutions to them. Currently, I am engaged in the field of Web3, actively exploring its practical applications and global development.</p>
+</section>
+
+<section id="projects">
+    <h2>Projects</h2>
+    <h3>Bybit</h3>
+    <p>Recognized as the world's third-largest crypto exchange by trading volume, Bybit serves as a significant player in the cryptocurrency space, acting as the Crypto Ark and gateway to Web3.</p>
+    <p><a href="https://twitter.com/bybit_official" target="_blank">Bybit on Twitter</a></p>
+    
+    <h3>Moledao</h3>
+    <p>Moledao is a Web 3 Builder community which helps to connect and develop budding entrepreneurs, facilitating collaborative efforts towards building the Web 3 ecosystem.</p>
+    <p><a href="https://twitter.com/moledao_io" target="_blank">Moledao on Twitter</a></p>
+
+    <h3>ByBUIDLERs</h3>
+    <p>ByBUIDLERs are passionate individuals and organizations that dedicate their skills and resources to fuel Bybit’s growth voluntarily. ByBUIDLERs are the ambassador of Bybit, the angel of Bybit, and the family of Bybit.</p>
+    <p><a href="https://forms.gle/5qZn7Jf5zn1kMfAV7" target="_blank">Join ByBUIDLERs</a></p>
+
+    <h3>BGA</h3>
+    <p>Blockchain for Good Alliance (BGA) is a long term collaborative non-for-profit initiative with key partners with the main aim to contribute to societal good by using blockchain technology to solve real world problems.</p>
+    <p><a href="https://www.blockchainforgood.xyz/#/home" target="_blank">BGA Website</a></p>
+</section>
+
+<section id="twitter">
+    <h2>Twitter</h2>  
+    <p>Follow my thoughts and updates on <a href="https://x.com/JunboPeng" target="_blank">my twitter</a>.</p>
+</section>
+
+<section id="contact">
+    <h2>Contact</h2>
+    <p>Connect with me on <a href="https://www.linkedin.com/in/junbopeng20210819/" target="_blank">LinkedIn</a>.</p>
+    <p>Message me on Telegram: @Phoebe_qinghan</p>
+</section>
+
+<footer>
+    <p>&copy; 2024 Phoebe</p>
+</footer>
+
+</body>
+</html>
